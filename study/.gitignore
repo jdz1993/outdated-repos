@@ -1,0 +1,19 @@
+# db
+*.db
+*.opendb
+
+# exe
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.obj
+
+# visual studio
+*.suo
+*.filters
+
+# log
+*.tlog
+*.log
+*.lastbuildstate
